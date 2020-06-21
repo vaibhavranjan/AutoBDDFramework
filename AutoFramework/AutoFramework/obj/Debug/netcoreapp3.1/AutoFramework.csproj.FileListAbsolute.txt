@@ -1,0 +1,8 @@
+D:\AutomationProject\AutoFramework\AutoFramework\bin\Debug\netcoreapp3.1\AutoFramework.deps.json
+D:\AutomationProject\AutoFramework\AutoFramework\bin\Debug\netcoreapp3.1\AutoFramework.dll
+D:\AutomationProject\AutoFramework\AutoFramework\bin\Debug\netcoreapp3.1\AutoFramework.pdb
+D:\AutomationProject\AutoFramework\AutoFramework\obj\Debug\netcoreapp3.1\AutoFramework.AssemblyInfoInputs.cache
+D:\AutomationProject\AutoFramework\AutoFramework\obj\Debug\netcoreapp3.1\AutoFramework.AssemblyInfo.cs
+D:\AutomationProject\AutoFramework\AutoFramework\obj\Debug\netcoreapp3.1\AutoFramework.csproj.CoreCompileInputs.cache
+D:\AutomationProject\AutoFramework\AutoFramework\obj\Debug\netcoreapp3.1\AutoFramework.dll
+D:\AutomationProject\AutoFramework\AutoFramework\obj\Debug\netcoreapp3.1\AutoFramework.pdb
